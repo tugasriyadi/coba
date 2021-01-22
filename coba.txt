@@ -1,1 +1,6 @@
 ini percobaan 
+Ini mencoba di main
+1.Intro Devops
+2 intro git
+3.introgithub
+4. Kolab
